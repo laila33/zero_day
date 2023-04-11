@@ -18,3 +18,16 @@ git push
 git remote add origin https://github.com/laila33/zero_day.git
 git remote -v
 git push git push 
+git push
+git status
+git init
+git status
+touch README.md
+vim README.md
+git add . 
+git commit -m 'My first commit'
+git push 
+git remote add origin https://github.com/laila33/zero_day.git
+git push 
+git init 
+git push
